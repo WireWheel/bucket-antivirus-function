@@ -12,7 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-AMZ_LINUX_VERSION:=latest
+#AMZ_LINUX_VERSION:=latest
+AMZ_LINUX_VERSION := 2017.09
 current_dir := $(shell pwd)
 container_dir := /opt/app
 circleci := ${CIRCLECI}
