@@ -1,3 +1,8 @@
+# ARCHIVED
+
+This repo was merged with wirewheelio and archived in Oct 2018.
+wirewheelio/provisioning/aws/bucket-antivirus-function
+
 # bucket-antivirus-function
 
 [![CircleCI](https://circleci.com/gh/upsidetravel/bucket-antivirus-function.svg?style=svg)](https://circleci.com/gh/upsidetravel/bucket-antivirus-function)
